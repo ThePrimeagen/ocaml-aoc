@@ -1,3 +1,9 @@
 (executable
  (name      sum)
- (libraries base stdio))
+ (libraries base stdio)
+ (modules sum))
+
+(executable
+ (name day2)
+ (libraries base stdio)
+ (modules day2))
