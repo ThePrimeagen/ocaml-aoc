@@ -7,3 +7,8 @@
  (name day2)
  (libraries base stdio)
  (modules day2))
+
+(executable
+ (name day3)
+ (libraries base stdio)
+ (modules day3))
